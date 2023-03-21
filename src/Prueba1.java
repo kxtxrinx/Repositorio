@@ -6,6 +6,7 @@ public class Prueba1 {
 		System.out.println("Inicio del proyecto");
 		
 		System.out.println("¿Cuál es tu nombre?");
+		System.out.println("Modificación desde la rama prueba");
 
 
 	}
